@@ -1,8 +1,9 @@
 import React from 'react'
+import { Typography, Box, Stack } from '@mui/material';
 
-const SimilarExercises = () => {
+const SimilarExercises = (targetMuscleExercises, equimentExercises ) => {
   return (
-    <div>SimilarExercises</div>
+    <Box></Box>
   )
 }
 
